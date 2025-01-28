@@ -1,3 +1,7 @@
+
+
+
+
 # Golang Udemy
 
 Bem-vindo ao repositório **Golang-Udemy**! 🎉 Este projeto contém o material de estudo, exercícios, projetos e exemplos desenvolvidos durante o curso de Golang (Go) oferecido na plataforma Udemy. O foco principal é ajudar os alunos a consolidar os conceitos fundamentais e avançados da linguagem Go, explorando suas funcionalidades e melhores práticas.
@@ -17,29 +21,6 @@ Bem-vindo ao repositório **Golang-Udemy**! 🎉 Este projeto contém o material
   - `go mod`: Gerenciamento de dependências.
   - **Testes unitários**: Uso de pacotes como `testing` para validação.
 
-## 📂 Estrutura do Repositório
-
-```bash
-Golang-Udemy/
-│
-├── 01-introducao/
-│   ├── hello_world.go      # Primeiro programa em Go.
-│   └── variaveis.go        # Exemplos básicos de variáveis.
-│
-├── 02-funcoes/
-│   ├── funcoes_basicas.go  # Definição e uso de funções.
-│   └── funcoes_avancadas.go # Funções como valores, closures.
-│
-├── 03-estruturas_de_controle/
-│   ├── loops.go            # Estruturas de repetição.
-│   └── condicoes.go        # If/Else, Switch.
-│
-├── 04-estruturas_de_dados/
-│   ├── arrays.go           # Trabalhando com arrays.
-│   ├── slices.go           # Manipulação de slices.
-│   └── maps.go             # Mapas (dicionários) em Go.
-│
-└── README.md               # Este arquivo.
 
 ## 📚 O Que Você Vai Aprender
 
@@ -72,6 +53,7 @@ Antes de começar, você precisará ter instalado em sua máquina:
    go test ./...
 
 
+
 ## 🤝 Contribuição
 
 Contribuições são sempre bem-vindas! Se você encontrar problemas ou tiver ideias para melhorar este repositório, sinta-se à vontade para abrir uma **issue** ou enviar um **pull request**.
@@ -82,10 +64,29 @@ Este projeto está sob a licença MIT. Para mais detalhes, veja o arquivo [LICEN
 
 ---
 
-**Happy Coding!** 😄  
-
-Gostou deste repositório? Deixe uma ⭐️ para ajudar outros desenvolvedores a encontrá-lo!
-
----
-
 Criado por [Code-Gabs](https://github.com/Code-Gabs).
+
+
+## 📂 Estrutura do Repositório
+
+    ```bash
+    Golang-Udemy/
+    │
+    ├── 01-introducao/
+    │   ├── hello_world.go      # Primeiro programa em Go.
+    │   └── variaveis.go        # Exemplos básicos de variáveis.
+    │
+    ├── 02-funcoes/
+    │   ├── funcoes_basicas.go  # Definição e uso de funções.
+    │   └── funcoes_avancadas.go # Funções como valores, closures.
+    │
+    ├── 03-estruturas_de_controle/
+    │   ├── loops.go            # Estruturas de repetição.
+    │   └── condicoes.go        # If/Else, Switch.
+    │
+    ├── 04-estruturas_de_dados/
+    │   ├── arrays.go           # Trabalhando com arrays.
+    │   ├── slices.go           # Manipulação de slices.
+    │   └── maps.go             # Mapas (dicionários) em Go.
+    │
+    └── README.md               # Este arquivo.
