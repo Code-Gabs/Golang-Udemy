@@ -1,0 +1,10 @@
+-- Comando para criar o arquivo go.mod 
+go mod init nome do modulo
+
+-- Comando para criar o binário do código e executar
+go build
+- Ponto de atenção, o arquivo de executável gerado não atualiza sozino após modificações no código
+é necessário executar o comando "go build" para atualizar o arquivo
+
+-- Funções com letra Maiuscula podem ser usados em diferentes módulos
+Funções com letra Minuscula só poderam ser usados dentro do Módulo que está vinculado
