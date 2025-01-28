@@ -40,3 +40,52 @@ Golang-Udemy/
 │   └── maps.go             # Mapas (dicionários) em Go.
 │
 └── README.md               # Este arquivo.
+
+## 📚 O Que Você Vai Aprender
+
+- **Conceitos Básicos**: Sintaxe, variáveis, tipos de dados.
+- **Estruturas de Controle**: Loops, condicionais.
+- **Estruturas de Dados**: Arrays, slices, mapas.
+- **Funções e Métodos**: Criação, parâmetros, retorno.
+- **Concorrência em Go**: Goroutines e canais.
+
+## 💻 Pré-Requisitos
+
+Antes de começar, você precisará ter instalado em sua máquina:
+
+- [Go](https://golang.org/dl/) (versão recomendada: 1.20+).
+- Um editor de texto ou IDE de sua preferência (recomendação: [Visual Studio Code](https://code.visualstudio.com/) com a extensão Go instalada).
+
+## ⚙️ Como Usar
+
+1. Clone este repositório:
+   ```bash
+   git clone https://github.com/Code-Gabs/Golang-Udemy.git
+2. Acesse o diretório do projeto:
+   ```bash
+   cd Golang-Udemy
+3. Execute os exemplos de código
+   ```bash
+   go run caminho/do/arquivo.go
+4. Para executar testes:
+   ```bash
+   go test ./...
+
+
+## 🤝 Contribuição
+
+Contribuições são sempre bem-vindas! Se você encontrar problemas ou tiver ideias para melhorar este repositório, sinta-se à vontade para abrir uma **issue** ou enviar um **pull request**.
+
+## 📝 Licença
+
+Este projeto está sob a licença MIT. Para mais detalhes, veja o arquivo [LICENSE](LICENSE).
+
+---
+
+**Happy Coding!** 😄  
+
+Gostou deste repositório? Deixe uma ⭐️ para ajudar outros desenvolvedores a encontrá-lo!
+
+---
+
+Criado por [Code-Gabs](https://github.com/Code-Gabs).
